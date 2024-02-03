@@ -1,0 +1,35 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "a node js files",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nasir-Shaikh/Node-js.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "code"
+  ],
+  "author": "Nasir Shaik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nasir-Shaikh/Node-js/issues"
+  },
+  "homepage": "https://github.com/Nasir-Shaikh/Node-js#readme",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "colors": "^1.4.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongodb": "^5.5.0",
+    "mongoose": "^7.2.2",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "simple-node-logger": "^21.8.12"
+  }
+}
